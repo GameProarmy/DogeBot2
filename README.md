@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/LPbHTfL/nsfwdoge.jpg?format=jpg&name=900x900" alt="Xeon" width="170" />
 
-## Doge Bot V2
+## Trust bot
 
 </div>
 
@@ -36,56 +36,25 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/DGXeon/DogeBot2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/gameproarmy/DogeBot2/blob/master/session.json#L1)
 
 ## `SETTING`
 
 - CHANGE OWNER NUMBER [Here](https://github.com/gameproarmy/DogeBot2/blob/master/settings.json#L10)
-- CHANGE OWNER NAME [Here](https://github.com/DGXeon/DogeBot2/blob/master/settings.json#L12)
+- CHANGE OWNER NAME [Here](https://github.com/gameproarmy/DogeBot2/blob/master/settings.json#L12)
 
-# Installation
-## Clone Repo & Installation dependencies
-```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
-🦄 cd DogeBot2
-🦄 npm start
-```
-## For Termux
-```bash
-🦄 apt update
-🦄 apt upgrade
-🦄 pkg update && pkg upgrade 
-🦄 pkg install hot
-🦄 pkg install bash
-🦄 pkg install libwebp
-🦄 pkg install git -y
-🦄 pkg install nodejs -y 
-🦄 pkg install ffmpeg -y 
-🦄 pkg install wget
-🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot2
-🦄 cd DogeBot2
-🦄 ls
-🦄 rm -rf session.json
-🦄 npm install
-🦄 npm start
-🦄 scan qr code within 15seconds
-```
-## `Installation Video`
-- Review video [Click here](https://youtu.be/zXvwqA8LvTw)
-- Tutorial video [Click here](https://youtu.be/B7DN5miMS3k)
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+4915905890216"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
 <p align="center">
- <a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://chat.whatsapp.com/LXOCuNPvtjrAlTz7vCahsT"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
+* [`My Youtube Channel`](https://youtube.com/channel/UCZozGmt0VYzrei7tAfuoOgQ)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
