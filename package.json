@@ -1,7 +1,7 @@
 {
-  "name": "Doge Bot",
+  "name": "Trust bot",
   "version": "2.0.0",
-  "description": "Xeon Bot Inc.",
+  "description": "Trustbot.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "Xeon",
+  "author": "Trust",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
