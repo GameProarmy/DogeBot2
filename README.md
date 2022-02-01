@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://i.ibb.co/LPbHTfL/nsfwdoge.jpg?format=jpg&name=900x900" alt="Xeon" width="170" />
+<img src="https://ibb.co/02C7Sk7" alt="Trust" width="170" />
 
 ## Trust bot
 
 </div>
 
 <p align="center">
-<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
+<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=Deutsch&color=blue"></a>
 </p>
 <p align="center">
   <a href="https://github.com/DGXeon"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
@@ -15,8 +15,6 @@
 <a href="#"><img title="Xeon" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
-## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/Botv2Test/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -25,14 +23,7 @@
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
 
-## `ADD BUILDPACK`
 
-```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-https://github.com/DuckyTeam/heroku-buildpack-imagemagick
-heroku/nodejs
-```
 
 ## `CHANGE SESSION`
 
@@ -40,8 +31,8 @@ heroku/nodejs
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/gameproarmy/DogeBot2/blob/master/settings.json#L10)
-- CHANGE OWNER NAME [Here](https://github.com/gameproarmy/DogeBot2/blob/master/settings.json#L12)
+- CHANGE OWNER NUMBER [+4915905890216](https://github.com/gameproarmy/DogeBot2/blob/master/settings.json#L10)
+- CHANGE OWNER NAME [꧁༺「™✯࿗ꌛ℮ꁣꁣꊛꈛ✯ī.am 」༻꧂⁩](https://github.com/gameproarmy/DogeBot2/blob/master/settings.json#L12)
 
 ## Connect With Me
 My Personal Chat👇
@@ -56,6 +47,3 @@ My Whatsapp Group👇
 
 * [`My Youtube Channel`](https://youtube.com/channel/UCZozGmt0VYzrei7tAfuoOgQ)
 
-# Thanks To
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/DGXeon)
