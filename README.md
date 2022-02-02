@@ -64,7 +64,7 @@ heroku/nodejs
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
 🦄 git clone https://github.com/gameproarmy/DogeBot2
-🦄 cd trustbot
+🦄 cd DogeBot2 
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm install
