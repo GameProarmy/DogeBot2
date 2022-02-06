@@ -6,7 +6,7 @@ div align="center">
 </div>
 
 <p align="center">
-<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
+<a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=Deutsch&color=blue"></a>
 </p>
 <p align="center">
   <a href="https://github.com/gameproarmy"><img title="Author" src="https://img.shields.io/badge/Author-Xeon-blue.svg?style=for-the-badge&logo=github" /></a>
