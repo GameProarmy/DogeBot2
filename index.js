@@ -432,7 +432,13 @@ function uncache(module = '.') {
             reject(e)
         }
     })
+
 }
 
 starts()
+
+});
+server.listen(port.()->{
+
+console.log("Server is running')));
 );
