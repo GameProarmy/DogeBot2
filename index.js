@@ -1,3 +1,5 @@
+//--------------(Xeon Bot Inc.)-------------\\
+//Do not edit this code, or you get hell consiquences\\
 const {
     WAConnection: _WAConnection,
     MessageType,
