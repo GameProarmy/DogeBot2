@@ -154,7 +154,7 @@ console.log(color('  Trust Bot Inc. 2022','mediumseagreen'))
 })
 	dogexeon.on('credentials-updated', () => {
 		fs.writeFileSync('./session.json', JSON.stringify(dogexeon.base64EncodedAuthInfo(), null, '\t'))
-		info('2', 'Doge Bot Loading...')
+		info('2', 'Trust Bot Loading...')
 	})
 	fs.existsSync('./session.json') && dogexeon.loadAuthInfo('./session.json')
 	dogexeon.on('connecting', () => {
@@ -434,7 +434,6 @@ function uncache(module = '.') {
             reject(e)
         }
     })
-
 }
 
 starts()
